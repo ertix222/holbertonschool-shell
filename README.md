@@ -1,1 +1,1 @@
-first README
+First directory of script
