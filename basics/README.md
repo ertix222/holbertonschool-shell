@@ -1,1 +1,1 @@
-script
+directory with scripts
