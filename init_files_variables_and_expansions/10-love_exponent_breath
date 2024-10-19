@@ -1,2 +1,2 @@
 #!/bin/bash
-echo result=$(($BREATH ** $POWER))
+echo result=$(($BREATH$POWER | bc))
