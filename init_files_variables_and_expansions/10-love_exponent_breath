@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BREATHc** $POWER))
+echo $(($BREATH ** $POWER))
